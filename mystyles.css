@@ -1,0 +1,144 @@
+body {
+    margin: 0;
+}
+
+.header {
+    background-color: white;
+    box-shadow: 0 0 31px 0 lightgrey;
+    width: 100%;
+    position: fixed;
+    height: 81px;
+    padding: 10px;
+    box-sizing: border-box;
+    padding-top: 14px;
+    top: 0;
+}
+
+img.wemapic {
+    height: 62px;
+    width: 81px;
+    float: left;
+}
+
+p.wematxt {
+    color: purple;
+    font-family: arial;
+    text-transform: capitalize;
+    font-size: 40px;
+    margin-top: 8px;
+}
+
+p.wel {
+    color: black;
+    font-family: arial;
+    font-size: 38px;
+    text-transform: capitalize;
+}
+
+p.icontxt {
+    font-family: arial;
+    text-transform: capitalize;
+}
+
+a:link {
+    color: blue;
+    text-decoration: none;
+}
+
+.container {
+    height: 458px;
+    width: 400px;
+    padding: 10px;
+    box-sizing: border-box;
+    float: right;
+    margin-top: 50px;
+    margin-right: 49px;
+}
+
+.welcoming {
+    line-height: 0.1;
+}
+
+img.pictool {
+    margin-top: 167px;
+    height: 380px;
+    width: 390px;
+    float: left;
+    margin-left: 70px;
+    background-color: white;
+}
+
+p.wel {
+    color: black;
+    font-family: arial;
+    font-size: 38px;
+    text-transform: capitalize;
+}
+
+.form {
+    border: 1px solid lightgray;
+    width: 400px;
+    height: 404px;
+    box-shadow: 0px 4px 4px 0px lightgrey;
+    margin-left: -97px;
+}
+
+p.formtxt {
+    font-family: arial;
+    color: purple;
+    font-size: 26px;
+    margin-left: 47px;
+}
+
+label.label {
+    font-family: arial;
+    font-size: 19px;
+    margin-left: 135px;
+}
+
+input#Acct\.no\. {
+    width: 80%;
+    margin-left: 28px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 5px;
+    outline: none;
+    height: 25px;
+    margin-top: 22px;
+    margin-bottom: 22px;
+    border: 1px solid lightgray;
+}
+
+input#phone\.no\. {
+    width: 80%;
+    margin-left: 28px;
+    padding: 10px;
+    border-radius: 5px;
+    outline: none;
+    height: 25px;
+    margin-top: 22px;
+    margin-bottom: 22px;
+    border: 1px solid lightgray;
+}
+
+
+input#pro {
+    color: white;
+    background-color: cyan;
+    height: 35px;
+    width: 126px;
+    border: none;
+    border-radius: 6px;
+    margin-left: 142px;
+}
+
+
+
+
+
+
+
+
+
+
+
